@@ -15,4 +15,6 @@ excel_file_2 = r"C:\Users\kainu\OneDrive\Desktop\Seminararbeit\RestaurantsNewDel
 
 excel_file_1 = r"C:\Users\kainu\OneDrive\Desktop\Seminararbeit\RestaurantsNewDelhi.xlsx"
 
+Ebenso habe ich nur die aktuellste Version des Codes kommentiert, ich denke das passt, da dort der Code am kompliziertesten ist. 
+
 
