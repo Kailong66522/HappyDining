@@ -1,9 +1,10 @@
 # HappyDining
 Seminararbeit Kai Hinrichs
 
-Bevor du den Code ausführen willst, solltest du diese Bibliotheken installieren, falls sich das alles nicht installieren lässt oder irgendwo Fehler sind, rate ich dir, dass einzeln immer mit pip(pip3) install xyz zu machen.
+Bevor Sie den Code ausführen wollen, sollten Sie diese Bibliotheken installieren, falls sich das alles nicht installieren lässt oder irgendwo Fehler sind, rate ich Ihnen, dass einzeln immer mit pip(pip3) install xyz zu machen.
 
 pip install scikit-learn matplotlib gower pandas 
+
 pip3 install customtikinter tkintermapview
 
 Diese Bibliotheken sind Voraussetzung für die Funktion des Codes.
