@@ -12,6 +12,7 @@ Ebenso muss die Excel-Tabelle mit dem Inhalt der Restaurants aus NewDelhi zusamm
 Das ist im Code bei den obersten zeilen zu ändern: 
 
 excel_file_2 = r"C:\Users\kainu\OneDrive\Desktop\Seminararbeit\RestaurantsNewDelhiwahlgross.xlsx"
+
 excel_file_1 = r"C:\Users\kainu\OneDrive\Desktop\Seminararbeit\RestaurantsNewDelhi.xlsx"
 
 
