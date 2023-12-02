@@ -25,7 +25,7 @@ def close_old_toplevels():
 
 
 
-#Das ist die Funktion die die Daten anschaut wenn man auf den Pin auf der Karte klickt
+#Das ist die Funktion die die Daten anzeigt wenn man auf den Pin auf der Karte klickt
 def show_info(restaurant):
     extra_window5 = ctk.CTkToplevel()
     open_toplevels.append(extra_window5)
