@@ -3,7 +3,7 @@ Seminararbeit Kai Hinrichs
 
 Bevor Sie den Code ausführen wollen, sollten Sie diese Bibliotheken installieren, falls sich das alles nicht installieren lässt oder irgendwo Fehler sind, rate ich Ihnen, dass einzeln immer mit pip(pip3) install xyz zu machen.
 
-pip install scikit-learn matplotlib gower pandas 
+pip install scikit-learn matplotlib gower pandas numpy
 
 pip3 install customtikinter tkintermapview
 
