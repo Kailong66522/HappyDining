@@ -18,4 +18,4 @@ excel_file_1 = r"C:\Users\kainu\OneDrive\Desktop\Seminararbeit\RestaurantsNewDel
 
 Ebenso habe ich nur die aktuellste Version des Codes kommentiert, ich denke das passt, da dort der Code am kompliziertesten ist. 
 
-Es liegt eine Datei mit dem Namen "References with Screenshots" im Github folder, in dem ich bereits "alle" (mit ausnahme eine die sonst 14 seiten wären und die references zum Code) References in eine Word datei geapackt habe mit Screenshot zu der entsprechenden Seite damtit sie diese nicht einzeln öffnen müssen und viel Zeit aufwenden müssen. Dafür ist jeder Screen von der benutzten Seite im Word Dokument angegeben das bei Bedarf benutzt werden kann.
+Es liegt eine Datei mit dem Namen "References with Screenshots" im Github folder, in dem ich bereits "alle" (mit ausnahme eine die sonst 14 seiten wären und die references zum Code) References (in chronologischer Reihenfolge) in eine Word datei geapackt habe mit Screenshot zu der entsprechenden Seite damtit sie diese nicht einzeln öffnen müssen und viel Zeit aufwenden müssen. Dafür ist jeder Screen von der benutzten Seite im Word Dokument angegeben das bei Bedarf benutzt werden kann.
